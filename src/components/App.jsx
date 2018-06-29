@@ -17,11 +17,3 @@ function App(){
 }
 
 export default App;
-
-
-// function liveTime(){
-// let clock = React.createElement('h2', {}, `It is ${new Date().toLocaleTimeString()}`);
-
-// }
-
-// setInterval(liveTime, 1000);
